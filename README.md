@@ -1,4 +1,4 @@
 VariousScripts
 ==============
 
-Various Ruby scripts - handy and not so much
+Various Ruby scripts for Mac OS X - handy and not so much
