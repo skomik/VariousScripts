@@ -1,4 +1,4 @@
 VariousScripts
 ==============
 
-Various handy and not scripts
+Various Ruby scripts - handy and not so much
